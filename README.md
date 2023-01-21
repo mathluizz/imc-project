@@ -22,4 +22,3 @@ Esse app foi o primeiro que desenvolvi, para dar os primeiros passos com desenvo
 ## ToDo
 - Melhorar o estilo do app
   
-[⬆ Voltar ao topo](#imc-project)<br>
